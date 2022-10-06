@@ -2,7 +2,7 @@
 
 Full Stack with AnhBao.
 
-## Bắt đầu
+## Chức năng
 * Xác thực Email & Mật khẩu
 * Trạng thái xác thực tồn tại
 * Tìm kiếm sản phẩm
