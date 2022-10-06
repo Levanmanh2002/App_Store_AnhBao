@@ -1,8 +1,28 @@
 # test_mongodb
 
-A new Flutter project.
+AFull Stack with AnhBao.
 
-## Getting Started
+## Bắt đầu
+* Xác thực Email & Mật khẩu
+* Trạng thái xác thực tồn tại
+* Tìm kiếm sản phẩm
+* Lọc Sản phẩm (dựa trên Danh mục)
+* Thông tin chi tiết sản phẩm
+* Xếp hạng
+* Nhận ưu đãi trong ngày
+* Xem đơn đặt hàng của tôi
+* Xem chi tiết & trạng thái đơn hàng
+* Đăng xuất
+* Bảng quản trị
+  - Xem tất cả các sản phẩm
+  - Thêm sản phẩm
+  - Xóa sản phẩm
+  - Xem đơn đặt hàng
+  - Thay đổi trạng thái đơn hàng
+  - Xem tổng thu nhập
+  - Xem thu nhập trên Biểu đồ
+
+## Công nghệ được sử dụng
 
 This project is a starting point for a Flutter application.
 
