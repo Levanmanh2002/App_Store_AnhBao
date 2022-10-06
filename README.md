@@ -22,6 +22,11 @@ Full Stack with AnhBao.
   - Xem tổng thu nhập
   - Xem thu nhập trên Biểu đồ
 
+## Server
+  cd server
+  npm install
+  npm run dev
+
 ## Công nghệ được sử dụng
 Máy chủ : Node.js, Mongoose, MongoDB, Cloudinary
 Tools: Flutter, Provider
