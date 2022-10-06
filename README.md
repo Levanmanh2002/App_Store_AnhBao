@@ -30,8 +30,8 @@ Full Stack with AnhBao.
   ```
 
 ## Công nghệ được sử dụng
-: Máy chủ : Node.js, Mongoose, MongoDB, Cloudinary.
-: Tools: Flutter, Provider.
+* Máy chủ : Node.js, Mongoose, MongoDB, Cloudinary *
+* Tools: Flutter, Provider *
 
 ## Hình ảnh
 ![Tux, the Linux mascot](/assets/info/1.png)
