@@ -1,6 +1,6 @@
 # test_mongodb
 
-AFull Stack with AnhBao.
+Full Stack with AnhBao.
 
 ## Bắt đầu
 * Xác thực Email & Mật khẩu
@@ -23,14 +23,17 @@ AFull Stack with AnhBao.
   - Xem thu nhập trên Biểu đồ
 
 ## Công nghệ được sử dụng
+Máy chủ : Node.js, Mongoose, MongoDB, Cloudinary
+Tools: Flutter, Provider
 
-This project is a starting point for a Flutter application.
+## Hình ảnh
+![Tux, the Linux mascot](/assets/info/1.png)
+![Tux, the Linux mascot](/assets/info/2.png)
+![Tux, the Linux mascot](/assets/info/3.png)
+![Tux, the Linux mascot](/assets/info/4.png)
+![Tux, the Linux mascot](/assets/info/5.png)
+![Tux, the Linux mascot](/assets/info/6.png)
+![Tux, the Linux mascot](/assets/info/7.png)
+![Tux, the Linux mascot](/assets/info/8.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Nickname** : <span style="colors.green">*Anh Báo*</span>
